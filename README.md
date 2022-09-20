@@ -8,7 +8,7 @@ Allows you to see a blashcard that opens up a question and answer
 
 App Walk-though
 
-<img src="https://recordit.co/BnacEjw8vl" width=200><br>
+<img src="http://g.recordit.co/BnacEjw8vl.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
